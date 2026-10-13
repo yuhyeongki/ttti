@@ -1,0 +1,6 @@
+{
+  "name": "Pomodoro Flow & Work Logger",
+  "description": "생산성을 극대화하는 뽀모도로 타이머와 체계적인 작업 기록 및 집중 통계 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
